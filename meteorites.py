@@ -7,6 +7,7 @@ import math
 #print(sys.version)
 #path = '.'
 #print(os.path,os.listdir(path))
+#print new line
 
 def get_distance(lat1, lon1):
     lat2 = 37.5407
